@@ -15,7 +15,7 @@ Observer comment la température de surface évolue entre 2013 et 2021 et la met
 | Images Landsat 8 (bande 10 thermique, bandes 4 et 5) | USGS EarthExplorer |
 | Population et logements, recensements (1968 à 2017) | INSEE, traitements Apur |
 | Chiffres clés socio-économiques par département | Apur (opendata.apur.org) |
-| Fonds de carte des départements | [à compléter : source du fichier .shp] |
+| Fonds de carte des départements | [IGN/data.gouv.fr] |
 
 Dates des images : 19 juillet 2013 et 22 juillet 2021.
 
