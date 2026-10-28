@@ -58,7 +58,6 @@ QGIS · Magrit · Excel · données Landsat 8
 ## Contenu du dépôt
 
 ```
-data.gouv.fr
 presentation/   présentation du projet (PDF)
 cartes/         cartes exportées (PNG)
 donnees/        tableaux de données (Excel ou CSV)
