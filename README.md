@@ -44,6 +44,13 @@ Les formules suivent le tutoriel cité en bibliographie.
 - Courbes de l'évolution de la population et des logements par département depuis 1968.
 - Cartes du nombre de logements par îlot et par département (2017).
 - Tableau comparatif des chiffres clés des quatre départements.
+![Température de surface, juillet 2013](Temperature_Paris__2013.png)
+
+![Température de surface, juillet 2021](Temperature_Paris_2021.png)
+
+![Densité et superficie par département](Densite_superficie_par_Departement.png)
+
+![Surface bâtie par département](Bati_par_Departement.png)
 
 ## Limites
 
